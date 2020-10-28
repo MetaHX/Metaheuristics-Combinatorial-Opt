@@ -1,6 +1,6 @@
 # Bibliography
 
-> Metaheuristics, Combinatorial Opt, See for more detail notes on [Reading_Notes](./Reading_Notes.md)
+> Metaheuristics, Combinatorial Opt, see for more detail notes on [Reading_Notes](./Reading_Notes.md)
 
 Contributed by Zhenkun Wang and his teams.
 
