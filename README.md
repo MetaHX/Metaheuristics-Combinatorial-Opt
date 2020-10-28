@@ -1,8 +1,8 @@
 # Bibliography
 
-> Optimization-ML, See for more detail notes on [Reading_Notes](./Reading_Notes.md)
+> Metaheuristics, Combinatorial Opt, See for more detail notes on [Reading_Notes](./Reading_Notes.md)
 
-Contributed by Xi Lin and Zhiyuan Yang.
+Contributed by Zhenkun Wang and his teams.
 
 
 
